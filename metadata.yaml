@@ -1,4 +1,5 @@
 _repo: The-Prairie-Bird_47357
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Zwecker, Johann Baptist
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1876
     gutenberg_agent_id: '33063'
     url: http://www.gutenberg.org/2009/agents/33063
+covers:
+- cover_type: archival
+  image_path: 47357-h/images/cover.jpg
 creator:
   author:
     agent_name: Murray, Charles Augustus
     gutenberg_agent_id: '44275'
     url: http://www.gutenberg.org/2009/agents/44275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47357#The-Prairie-Bird
 gutenberg_issued: '2014-11-15'
 gutenberg_type: Text
 identifiers:
